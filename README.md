@@ -108,9 +108,7 @@ python src/hybrid_a_star.py
 
 当上一步为前进时，禁止下一步直接后退，避免产生无意义的 Z 字形路径。
 
-## 许可证
 
-[MIT License](LICENSE)
 
 **Hybrid A\* Result**
 <div align="center">
